@@ -38,8 +38,8 @@ Desenvolvimento Web, especialmente front-end com HTML e CSS.
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudinha-dev&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinha-dev&layout=compact&theme=rose_pine&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duda1710&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda1710&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
