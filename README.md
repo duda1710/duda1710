@@ -1,16 +1,26 @@
-## Hi there 👋
+<img align="left" src="profile.jpg" width="150" style="border-radius: 50%;" />
 
-<!--
-**duda1710/duda1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dudinha.dev
 
-Here are some ideas to get you started:
+Minimalista, apaixonada por tecnologia, criatividade e organização!  
+Gosto de transformar ideias em experiências visuais bonitas e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/@eduarda.am0rim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduarda.am0rim)
+
+---
+
+### 💻 Habilidades
+
+- 🌐 HTML, CSS, JavaScript  
+- 🛠️ Git, Figma  
+- ☕ Também sei usar Java
+
+---
+
+### 🎯 Atualmente focada em:
+Desenvolvimento Web, especialmente front-end com HTML e CSS.
+
+---
+
+### ✨ Repositórios em destaque
+Confira meus projetos aqui no GitHub! Em breve, mais novidades.
