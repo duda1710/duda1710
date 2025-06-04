@@ -11,7 +11,7 @@ Gosto de transformar ideias em experiências visuais bonitas e funcionais.
 
 ### 💻 Habilidades
 
-- 🌐 HTML, CSS, JavaScript  
+- 🌐 HTML, CSS  
 - 🛠️ Git, Figma  
 - ☕ Também sei usar Java
 
