@@ -6,6 +6,7 @@ Minimalista, apaixonada por tecnologia, criatividade e organização!
 Gosto de transformar ideias em experiências visuais bonitas e funcionais.
 
 [![Instagram](https://img.shields.io/badge/@eduarda.am0rim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduarda.am0rim)
+[!Portfolio.WebSite](https://portfolio-dudadev24.netlify.app/)
 
 ---
 
